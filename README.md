@@ -1,10 +1,21 @@
+**Name:** CHEBROLU RISHITHANJALI
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT08DS3984
+
+**Domain:** MACHINE LEARNING
+
+**Duration:** JULY 5th, 2024 to AUGUST 5th, 2024
 
 
 
 
 
+# OVERVIEW OF THE PROJECT
 
 # Project Overview: Interactive Text-to-Speech Conversion Application
+
 **Objective**
 
 The objective of this project is to develop an interactive text-to-speech (TTS) conversion application that enables users to input text and generate corresponding audio output. The application will support multiple languages and voices, allowing users to customize the speech synthesis to suit their preferences.
